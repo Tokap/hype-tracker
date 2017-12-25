@@ -46,3 +46,4 @@ Expected Vars in .env:
 # Notes
 - There is an estimated 4-8 second gap between when a Tweet is reviewed and a Twilio msg is received.
 - Process is set to run every 2 seconds. This can be updated at the bottom of the `main.js` file.
+- This project was completed in a few hours as a labor of love. Don't expect it to be bulletproof.
