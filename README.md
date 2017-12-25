@@ -16,15 +16,16 @@ with corresponding filter methods.
 
 # Install
 - Setup Environment Variables (discussed below)
-- npm install
-- npm run main
+- `npm install`
+- `npm run main`
 
 # Setup Environment Variables
 The following environment variables are expected in order for this project to function.
-Such variables should be kept in the `.env` and for all that is holy, keep that out
+Such variables should be kept in the `.env` file and for all that is holy, keep that out
 of your git tracking.
 
 Expected Vars in .env:
+
 (`Basic API Stuff`)
 - TWILIO_SID
 - TWILIO_AUTH
